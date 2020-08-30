@@ -1,4 +1,4 @@
-![Python](https://i.postimg.cc/DzmLwy18/71638547-2526854327380969-6661821655683170304-n.jpg)
+![Web](https://i.postimg.cc/zftB3Cqr/1-7-Y-o8g-TDAcz-XDGu8-NMAtyg.png)
 ### Hi there 👋
 #**
 
