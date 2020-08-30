@@ -1,4 +1,4 @@
-![Me](https://i.postimg.cc/j5f1NCxg/IMG-Broadway-20200119-153904-processed.jpg)
+![Python](https://i.postimg.cc/DzmLwy18/71638547-2526854327380969-6661821655683170304-n.jpg)
 ### Hi there 👋
 #**
 
@@ -8,11 +8,13 @@
 
 ***
 
-> I am a Part-time lecturer, full time learner & trainer. 
+> I am a Part-time lecturer & trainer, full time learner. 
 > Looking for a job for production level programming.
 > Want to build a career based on Python.
 
 *** 
+
+
 
 
 - 🔭 I’m currently working on ... **Web development- Python(Django), Javascript**
